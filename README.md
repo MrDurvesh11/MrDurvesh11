@@ -29,4 +29,4 @@
 
 <div><p><img  src="https://github-readme-stats.vercel.app/api?username=mrdurvesh11&show_icons=true&locale=en" alt="mrdurvesh11"  /></p></div>
 
-<p><img  src="https://github-readme-streak-stats.herokuapp.com/?user=mrdurvesh11&" alt="mrdurvesh11" style="display:block" /></p>
+
